@@ -31,5 +31,5 @@
 *UIConstraints: *OptionCash1 False *CashDrawer1Setting
 *UIConstraints: *CashDrawer2Setting *OptionCash2 False
 *UIConstraints: *OptionCash2 False *CashDrawer2Setting
-*UIConstraints: *CutMedia *OptionCutter True
-*UIConstraints: *OptionCutter True *CutMedia
+*UIConstraints: *CutMedia *OptionCutter False
+*UIConstraints: *OptionCutter False *CutMedia

@@ -6,7 +6,7 @@
 *ParamCustomPageSize Orientation: 5 int 0 0
 *OpenUI *CutMedia/Cut Media: PickOne
 *OrderDependency: 10 AnySetup *CutMedia
-*DefaultCutMedia: None
+*DefaultCutMedia: EndOfJob
 *CutMedia None/No cutting: "<</CutMedia 0>>setpagedevice"
 *CutMedia EndOfPage/Cut at every page: "<</CutMedia 4>>setpagedevice"
 *CutMedia EndOfJob/Cut at every job: "<</CutMedia 2>>setpagedevice"
@@ -26,7 +26,7 @@
 *CloseUI: *OptionCash2
 *OpenUI *OptionCutter/Cutter: Boolean
 *OrderDependency: 10 AnySetup *OptionCutter
-*DefaultOptionCutter: False
+*DefaultOptionCutter: True
 *OptionCutter False/Not Installed: ""
 *OptionCutter True/Installed: ""
 *CloseUI: *OptionCutter
