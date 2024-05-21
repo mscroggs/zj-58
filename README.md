@@ -43,6 +43,12 @@ So, for customizing PPD for a printer with another dimensions you need to know t
 Building and installing
 =======================
 
+First, run this to build the zj80 ppd file:
+
+```
+python make_ppd.py
+```
+
 You need toolchain, CMake and cups-devel.
 
 It may be achieved, say (as example) by running
