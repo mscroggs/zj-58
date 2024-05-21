@@ -1,0 +1,35 @@
+*PPD-Adobe: "4.3"
+*%%%% PPD file for ZJ-80 with CUPS.
+*%%%% Created by the CUPS PPD Compiler CUPS v2.2.7.
+*FormatVersion: "4.3"
+*FileVersion: "1.2"
+*LanguageVersion: English
+*LanguageEncoding: ISOLatin1
+*PCFileName: "zj80.ppd"
+*Product: "(zj-80)"
+*Manufacturer: "Zijiang"
+*ModelName: "Zijiang ZJ-80"
+*ShortNickName: "ZJ-80"
+*NickName: "Zijiang ZJ-80"
+*PSVersion: "(3010.000) 550"
+*LanguageLevel: "3"
+*ColorDevice: False
+*DefaultColorSpace: Gray
+*FileSystem: False
+*Throughput: "1"
+*LandscapeOrientation: Plus90
+*TTRasterizer: Type42
+*% Driver-defined attributes...
+*VariablePaperSize: True
+*1284DeviceID: "MFG:Zijiang;CMD:Zijiang;MDL:ZJ-80;CLS:PRINTER;"
+*cupsVersion: 2.2
+*cupsModelNumber: 560
+*cupsManualCopies: True
+*cupsFilter: "application/vnd.cups-raster 100 rastertozj"
+*cupsLanguages: "en"
+*UIConstraints: *CashDrawer1Setting *OptionCash1 False
+*UIConstraints: *OptionCash1 False *CashDrawer1Setting
+*UIConstraints: *CashDrawer2Setting *OptionCash2 False
+*UIConstraints: *OptionCash2 False *CashDrawer2Setting
+*UIConstraints: *CutMedia *OptionCutter True
+*UIConstraints: *OptionCutter True *CutMedia
